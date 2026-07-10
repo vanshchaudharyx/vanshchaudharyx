@@ -12,4 +12,15 @@ const vansh = {
   currentGoal: "Learn. Build. Improve."
 };
 ```
+🛠️ My Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github&perline=5" />
+
+<br><br>
+
+C • C++ • Python • Git • GitHub
+
+</div>
 
