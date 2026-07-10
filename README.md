@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey there, I'm Vansh 👋
 
-<!--
-**vanshchaudharyx/vanshchaudharyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Student by degree. Developer by curiosity.`
 
-Here are some ideas to get you started:
+I'm a **B.Tech CSE student** who enjoys turning ideas into code and problems into solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const vansh = {
+  learning: ["MERN Stack", "DSA"],
+  languages: ["C++", "Python", "JavaScript"],
+  interests: ["Problem Solving", "Web Development"],
+  currentGoal: "Learn. Build. Improve."
+};
+```
+
